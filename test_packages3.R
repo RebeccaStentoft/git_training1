@@ -1,3 +1,0 @@
-library(RPostgres)
-library(tidyverse)
-
